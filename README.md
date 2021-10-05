@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ripajes
+- 👀 I’m interested in python, deeplearning, django, gis and computer vision.
+- 🌱 I’m currently learning django and deep learning.
+- 💞️ I’m looking to collaborate on deep learning projects with gis application.
+- 📫 How to reach me jesus_rivera_93@hotmail.com
