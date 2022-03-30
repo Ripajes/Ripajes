@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Ripajes
-- 👀 I’m interested in python, deeplearning, django, gis and computer vision.
-- 💞️ I’m looking to collaborate on deep learning projects with gis application.
-- 📫 How to reach me jesus_rivera_93@hotmail.com
+- 👀 I’m interested in python for data pipelines, SQL, Spark, Airflow, data Lakes, data Warehouse
+- 📫 How to reach me jesusr.contacto@gmail.com
